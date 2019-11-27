@@ -1,0 +1,504 @@
+--------------------------------------------------------------------------------------
+
+++Title: RNA_tanh_one_layer
+++Description: Treinamento e classificação utilizando diversas configurações de uma rede neural, no dataset Yale Datafaceo qual foi equalizado e descrito pelo método PCA
+++Autor: Kreisler Brenner Mendes
+++Date: 27-9-2019  4 7 28
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  0
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 2
+* Duração do processamento:  1.2243s
+(Acurácia media / Desvio padão médio) ->	0.26666666666666666	(+/-) 0.18856180831641267
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  1
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 4
+* Duração do processamento:  1.2733s
+(Acurácia media / Desvio padão médio) ->	0.7575757575757577	(+/-) 0.32297969925998127
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  2
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 6
+* Duração do processamento:  0.7656s
+(Acurácia media / Desvio padão médio) ->	0.890909090909091	(+/-) 0.24302954734258694
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  3
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 8
+* Duração do processamento:  0.3288s
+(Acurácia media / Desvio padão médio) ->	0.9393939393939394	(+/-) 0.1327812260618584
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  4
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 10
+* Duração do processamento:  0.2978s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  5
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 12
+* Duração do processamento:  0.3458s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  6
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 14
+* Duração do processamento:  0.2419s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  7
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 16
+* Duração do processamento:  0.2389s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  8
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 18
+* Duração do processamento:  0.2589s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  9
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 20
+* Duração do processamento:  0.1529s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  10
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 22
+* Duração do processamento:  0.2079s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  11
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 24
+* Duração do processamento:  0.2459s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  12
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 26
+* Duração do processamento:  0.1939s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.13167006656000257
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  13
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 28
+* Duração do processamento:  0.5477s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  14
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 30
+* Duração do processamento:  0.2668s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  15
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 32
+* Duração do processamento:  0.1879s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  16
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 34
+* Duração do processamento:  0.1789s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  17
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 36
+* Duração do processamento:  0.1829s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  18
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 38
+* Duração do processamento:  0.1839s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  19
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 40
+* Duração do processamento:  0.1908s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  20
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 42
+* Duração do processamento:  0.1999s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.11876313904403286
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  21
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 44
+* Duração do processamento:  0.1812s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  22
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 46
+* Duração do processamento:  0.1989s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  23
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 48
+* Duração do processamento:  0.2818s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  24
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 50
+* Duração do processamento:  0.2070s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.11876313904403286
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  25
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 52
+* Duração do processamento:  0.2039s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  26
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 54
+* Duração do processamento:  0.2249s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  27
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 56
+* Duração do processamento:  0.2489s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  28
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 58
+* Duração do processamento:  0.2034s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  29
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 60
+* Duração do processamento:  0.2554s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  30
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 62
+* Duração do processamento:  0.2268s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  31
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 64
+* Duração do processamento:  0.2209s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  32
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 66
+* Duração do processamento:  0.2419s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.1533225532202851
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  33
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 68
+* Duração do processamento:  0.2768s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.13167006656000257
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  34
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 70
+* Duração do processamento:  0.2199s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.1908850393699833
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  35
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 72
+* Duração do processamento:  0.3458s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  36
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 74
+* Duração do processamento:  0.2549s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  37
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 76
+* Duração do processamento:  0.2499s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  38
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 78
+* Duração do processamento:  0.2389s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.13167006656000257
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  39
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 80
+* Duração do processamento:  0.2498s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  40
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 82
+* Duração do processamento:  0.2628s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  41
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 84
+* Duração do processamento:  0.2708s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.13167006656000257
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  42
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 86
+* Duração do processamento:  0.2618s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  43
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 88
+* Duração do processamento:  0.2888s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  44
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 90
+* Duração do processamento:  0.2389s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.10427060929748637
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  45
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 92
+* Duração do processamento:  0.2359s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  46
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 94
+* Duração do processamento:  0.2439s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  47
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 96
+* Duração do processamento:  0.2489s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  48
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 98
+* Duração do processamento:  0.2998s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  49
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 100
+* Duração do processamento:  0.3018s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  50
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 102
+* Duração do processamento:  0.2798s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  51
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 104
+* Duração do processamento:  0.2920s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  52
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 106
+* Duração do processamento:  0.2499s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  53
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 108
+* Duração do processamento:  0.2908s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  54
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 110
+* Duração do processamento:  0.2659s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  55
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 112
+* Duração do processamento:  0.2918s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  56
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 114
+* Duração do processamento:  0.2998s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  57
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 116
+* Duração do processamento:  0.2758s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201642
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  58
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 118
+* Duração do processamento:  0.2818s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation tanh
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  59
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 120
+* Duração do processamento:  0.3008s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.13167006656000257
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+MELHOR RESULTADO
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 30) ->	0.9878787878787879	(+/-) 0.0766612766101425
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+ANALISE DE TODAS ITERAÇOES
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Acurácia Média) ->	0.793939393939394	(+/-) 0.0
+(Tempo médio por iteração: ) ->	0.0353s
+(Total de iterações: ) ->	60

@@ -1,0 +1,192 @@
+--------------------------------------------------------------------------------------
+
+++Title: RNA_identity_one_layer
+++Description: Treinamento e classificação utilizando diversas configurações de uma rede neural, no dataset Yale Datafaceo qual foi equalizado e descrito pelo método PCA
+++Autor: Kreisler Brenner Mendes
+++Date: 2-10-2019  12 54 4
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  0
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 95
+* Duração do processamento:  0.3338s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  1
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 100
+* Duração do processamento:  0.3628s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  2
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 105
+* Duração do processamento:  0.3258s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  3
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 110
+* Duração do processamento:  0.3228s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  4
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 115
+* Duração do processamento:  0.2569s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  5
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 120
+* Duração do processamento:  0.3188s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.15427784316797397
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  6
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 125
+* Duração do processamento:  0.2988s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  7
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 130
+* Duração do processamento:  0.4088s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.16442012080303683
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  8
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 135
+* Duração do processamento:  0.4018s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  9
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 140
+* Duração do processamento:  0.3598s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  10
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 145
+* Duração do processamento:  0.3571s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  11
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 150
+* Duração do processamento:  0.4160s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  12
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 155
+* Duração do processamento:  0.3708s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  13
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 160
+* Duração do processamento:  0.3968s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  14
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 165
+* Duração do processamento:  0.3833s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  15
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 170
+* Duração do processamento:  0.8655s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  16
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 175
+* Duração do processamento:  0.3455s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  17
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 180
+* Duração do processamento:  0.4312s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  18
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 185
+* Duração do processamento:  0.4150s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  19
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 190
+* Duração do processamento:  0.4076s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation identity
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  20
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 195
+* Duração do processamento:  0.4048s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+MELHOR RESULTADO
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 185) ->	0.993939393939394	(+/-) 0.03833063830507126
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+ANALISE DE TODAS ITERAÇOES
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Acurácia Média) ->	0.9793939393939393	(+/-) 0.0
+(Tempo médio por iteração: ) ->	0.0869s
+(Total de iterações: ) ->	21

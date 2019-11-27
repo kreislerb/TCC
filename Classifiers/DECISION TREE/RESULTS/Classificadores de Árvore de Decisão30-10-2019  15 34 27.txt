@@ -1,0 +1,210 @@
+--------------------------------------------------------------------------------------
+
+++Title: Classificadores de Árvore de Decisão
+++Description: Treinamento e classificação utilizando diversas configurações de árvore de decisao, no dataset Yale Datafaceo qual foi equalizado e descrito pelo método PCA
+++Autor: Kreisler Brenner Mendes
+++Date: 30-10-2019  15 34 27
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  1
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 2
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  2
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 3
+* Duração do processamento:  0.063s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  3
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 4
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  4
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 5
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  5
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 6
+* Duração do processamento:  0.062s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  6
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 1.0 min_samples_split: 7
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.11515151515151514	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  7
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 2
+* Duração do processamento:  0.109s
+(Acurácia media / Desvio padão médio) ->	0.6363636363636364	(+/-) 0.5374496794520088
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  8
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 3
+* Duração do processamento:  0.094s
+(Acurácia media / Desvio padão médio) ->	0.6242424242424243	(+/-) 0.5549344553822835
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  9
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 4
+* Duração do processamento:  0.109s
+(Acurácia media / Desvio padão médio) ->	0.6606060606060606	(+/-) 0.5193766129849345
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  10
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 5
+* Duração do processamento:  0.109s
+(Acurácia media / Desvio padão médio) ->	0.6727272727272727	(+/-) 0.49711749465236066
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  11
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 6
+* Duração do processamento:  0.109s
+(Acurácia media / Desvio padão médio) ->	0.6787878787878787	(+/-) 0.49176879454789807
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  12
+* Parâmetros de teste:  min_impurity_decrease: 1e-10     max_depth: 12.0 min_samples_split: 7
+* Duração do processamento:  0.094s
+(Acurácia media / Desvio padão médio) ->	0.6727272727272727	(+/-) 0.5131154057822236
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  13
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 2
+* Duração do processamento:  0.062s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  14
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 3
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  15
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 4
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  16
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 5
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  17
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 6
+* Duração do processamento:  0.078s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  18
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 1.0 min_samples_split: 7
+* Duração do processamento:  0.078s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  19
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 2
+* Duração do processamento:  0.062s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  20
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 3
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  21
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 4
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  22
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 5
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  23
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 6
+* Duração do processamento:  0.062s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+--------------------------------------------------------------------------------------
+Validação Cruzada - Criterion-> gini
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  24
+* Parâmetros de teste:  min_impurity_decrease: 10000000000.0     max_depth: 12.0 min_samples_split: 7
+* Duração do processamento:  0.047s
+(Acurácia media / Desvio padão médio) ->	0.06666666666666667	(+/-) 0.0
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+MELHOR RESULTADO
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(min_impurity_decrease: 1e-10     max_depth: 12.0      min_samples_split: 6) ->	0.6787878787878787	(+/-) 0.49176879454789807
+(Tempo médio por iteração: ) ->	0.0644s
+(Total de iterações: ) ->	25
+(Tempo total: ) ->	1.6092643737792969

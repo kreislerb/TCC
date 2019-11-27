@@ -1,0 +1,1824 @@
+--------------------------------------------------------------------------------------
+
+++Title: RNA_logistic_two_layer
+++Description: Treinamento e classificação utilizando diversas configurações de uma rede neural, no dataset Yale Datafaceo qual foi equalizado e descrito pelo método PCA
+++Autor: Kreisler Brenner Mendes
+++Date: 27-9-2019  4 15 31
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  0
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 20)
+* Duração do processamento:  0.5107s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  1
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 25)
+* Duração do processamento:  0.5567s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  2
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 30)
+* Duração do processamento:  0.5987s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757577	(+/-) 0.153322553220285
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  3
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 35)
+* Duração do processamento:  0.5647s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.15427784316797405
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  4
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 40)
+* Duração do processamento:  0.5836s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.12479551686044846
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  5
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 45)
+* Duração do processamento:  0.6896s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  6
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 50)
+* Duração do processamento:  0.6956s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.15139389087026422
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  7
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 55)
+* Duração do processamento:  0.7066s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  8
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 60)
+* Duração do processamento:  0.7595s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.12479551686044846
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  9
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 65)
+* Duração do processamento:  0.7596s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.1316700665600026
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  10
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 70)
+* Duração do processamento:  0.8235s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  11
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 75)
+* Duração do processamento:  0.8745s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  12
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 80)
+* Duração do processamento:  0.8995s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.13167006656000257
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  13
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 85)
+* Duração do processamento:  0.8755s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  14
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (20, 90)
+* Duração do processamento:  1.0975s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992734
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  15
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 20)
+* Duração do processamento:  0.5697s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.16882894881435295
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  16
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 25)
+* Duração do processamento:  0.5217s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.12479551686044846
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  17
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 30)
+* Duração do processamento:  0.6136s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.18222177428330796
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  18
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 35)
+* Duração do processamento:  0.6057s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  19
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 40)
+* Duração do processamento:  0.6256s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  20
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 45)
+* Duração do processamento:  0.6936s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109665
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  21
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 50)
+* Duração do processamento:  0.6976s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.1533225532202851
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  22
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 55)
+* Duração do processamento:  0.7266s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  23
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 60)
+* Duração do processamento:  0.7496s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  24
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 65)
+* Duração do processamento:  0.7915s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  25
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 70)
+* Duração do processamento:  0.9537s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  26
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 75)
+* Duração do processamento:  0.9889s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  27
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 80)
+* Duração do processamento:  1.0234s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.15139389087026422
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  28
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 85)
+* Duração do processamento:  1.0616s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757577	(+/-) 0.15332255322028507
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  29
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (25, 90)
+* Duração do processamento:  1.1052s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  30
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 20)
+* Duração do processamento:  0.6156s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  31
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 25)
+* Duração do processamento:  0.6176s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  32
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 30)
+* Duração do processamento:  0.6766s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761183
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  33
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 35)
+* Duração do processamento:  0.8885s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  34
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 40)
+* Duração do processamento:  0.7116s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  35
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 45)
+* Duração do processamento:  0.8985s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  36
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 50)
+* Duração do processamento:  1.2663s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.15896820664974548
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  37
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 55)
+* Duração do processamento:  1.0074s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.15427784316797405
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  38
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 60)
+* Duração do processamento:  1.3572s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  39
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 65)
+* Duração do processamento:  1.1904s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  40
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 70)
+* Duração do processamento:  1.1874s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  41
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 75)
+* Duração do processamento:  1.5081s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  42
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 80)
+* Duração do processamento:  1.1663s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  43
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 85)
+* Duração do processamento:  1.1797s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  44
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (30, 90)
+* Duração do processamento:  1.2193s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  45
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 20)
+* Duração do processamento:  0.7196s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.18933938608258558
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  46
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 25)
+* Duração do processamento:  0.6899s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  47
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 30)
+* Duração do processamento:  0.7236s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.18699695297626076
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  48
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 35)
+* Duração do processamento:  0.7334s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  49
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 40)
+* Duração do processamento:  0.7600s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  50
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 45)
+* Duração do processamento:  0.8412s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  51
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 50)
+* Duração do processamento:  0.9128s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  52
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 55)
+* Duração do processamento:  0.9533s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757577	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  53
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 60)
+* Duração do processamento:  0.9322s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  54
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 65)
+* Duração do processamento:  1.0570s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  55
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 70)
+* Duração do processamento:  1.0811s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992734
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  56
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 75)
+* Duração do processamento:  1.1183s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  57
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 80)
+* Duração do processamento:  1.1304s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  58
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 85)
+* Duração do processamento:  1.2377s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  59
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (35, 90)
+* Duração do processamento:  1.2892s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  60
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 20)
+* Duração do processamento:  0.7645s
+(Acurácia media / Desvio padão médio) ->	0.9333333333333335	(+/-) 0.20498829727621531
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  61
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 25)
+* Duração do processamento:  0.7823s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  62
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 30)
+* Duração do processamento:  0.7754s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  63
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 35)
+* Duração do processamento:  0.8038s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  64
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 40)
+* Duração do processamento:  0.8501s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  65
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 45)
+* Duração do processamento:  0.9093s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.16352409167553988
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  66
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 50)
+* Duração do processamento:  0.9835s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  67
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 55)
+* Duração do processamento:  0.9936s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  68
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 60)
+* Duração do processamento:  1.0915s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  69
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 65)
+* Duração do processamento:  1.0976s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.09995407577254932
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  70
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 70)
+* Duração do processamento:  1.0378s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  71
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 75)
+* Duração do processamento:  1.1429s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  72
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 80)
+* Duração do processamento:  1.2053s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  73
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 85)
+* Duração do processamento:  1.2573s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  74
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (40, 90)
+* Duração do processamento:  1.2470s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  75
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 20)
+* Duração do processamento:  0.8185s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992734
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  76
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 25)
+* Duração do processamento:  0.8277s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  77
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 30)
+* Duração do processamento:  0.8703s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  78
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 35)
+* Duração do processamento:  0.8428s
+(Acurácia media / Desvio padão médio) ->	0.9393939393939394	(+/-) 0.1327812260618584
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  79
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 40)
+* Duração do processamento:  0.9627s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.11109274412014156
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  80
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 45)
+* Duração do processamento:  1.0236s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757577	(+/-) 0.15332255322028507
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  81
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 50)
+* Duração do processamento:  1.0234s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  82
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 55)
+* Duração do processamento:  1.0482s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201642
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  83
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 60)
+* Duração do processamento:  1.1107s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  84
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 65)
+* Duração do processamento:  1.1380s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  85
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 70)
+* Duração do processamento:  1.1476s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  86
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 75)
+* Duração do processamento:  1.1716s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  87
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 80)
+* Duração do processamento:  1.3831s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201642
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  88
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 85)
+* Duração do processamento:  1.4115s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.0663906130309292
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  89
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 90)
+* Duração do processamento:  1.3188s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  90
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 20)
+* Duração do processamento:  0.8681s
+(Acurácia media / Desvio padão médio) ->	0.9454545454545454	(+/-) 0.12479551686044846
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  91
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 25)
+* Duração do processamento:  0.8520s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  92
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 30)
+* Duração do processamento:  0.8344s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  93
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 35)
+* Duração do processamento:  0.9365s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  94
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 40)
+* Duração do processamento:  1.0180s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.11499191491521375
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  95
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 45)
+* Duração do processamento:  1.1069s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  96
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 50)
+* Duração do processamento:  1.0466s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  97
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 55)
+* Duração do processamento:  1.0770s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  98
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 60)
+* Duração do processamento:  1.1381s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201642
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  99
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 65)
+* Duração do processamento:  1.1399s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  100
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 70)
+* Duração do processamento:  1.2100s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  101
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 75)
+* Duração do processamento:  1.2631s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  102
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 80)
+* Duração do processamento:  1.3115s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  103
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 85)
+* Duração do processamento:  1.3102s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  104
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (50, 90)
+* Duração do processamento:  1.3453s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  105
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 20)
+* Duração do processamento:  0.9192s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  106
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 25)
+* Duração do processamento:  0.9651s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  107
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 30)
+* Duração do processamento:  0.9659s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  108
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 35)
+* Duração do processamento:  1.1178s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  109
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 40)
+* Duração do processamento:  1.1413s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  110
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 45)
+* Duração do processamento:  1.1953s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  111
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 50)
+* Duração do processamento:  1.1433s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  112
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 55)
+* Duração do processamento:  1.1557s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  113
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 60)
+* Duração do processamento:  1.1821s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  114
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 65)
+* Duração do processamento:  1.3041s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  115
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 70)
+* Duração do processamento:  1.2437s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  116
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 75)
+* Duração do processamento:  1.4794s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  117
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 80)
+* Duração do processamento:  1.4099s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  118
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 85)
+* Duração do processamento:  1.3417s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  119
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (55, 90)
+* Duração do processamento:  1.3983s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  120
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 20)
+* Duração do processamento:  0.8968s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.16171714017122832
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  121
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 25)
+* Duração do processamento:  0.9081s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  122
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 30)
+* Duração do processamento:  1.0677s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  123
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 35)
+* Duração do processamento:  1.0556s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  124
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 40)
+* Duração do processamento:  1.1089s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  125
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 45)
+* Duração do processamento:  1.1974s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  126
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 50)
+* Duração do processamento:  1.1647s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  127
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 55)
+* Duração do processamento:  1.2908s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  128
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 60)
+* Duração do processamento:  1.2749s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  129
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 65)
+* Duração do processamento:  1.2616s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  130
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 70)
+* Duração do processamento:  1.3306s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  131
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 75)
+* Duração do processamento:  1.3682s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  132
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 80)
+* Duração do processamento:  1.3957s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  133
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 85)
+* Duração do processamento:  1.5667s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  134
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (60, 90)
+* Duração do processamento:  1.4983s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  135
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 20)
+* Duração do processamento:  1.0324s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  136
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 25)
+* Duração do processamento:  0.9325s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  137
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 30)
+* Duração do processamento:  1.0017s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.1316700665600026
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  138
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 35)
+* Duração do processamento:  1.0868s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  139
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 40)
+* Duração do processamento:  1.1171s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  140
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 45)
+* Duração do processamento:  1.2199s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  141
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 50)
+* Duração do processamento:  1.2398s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  142
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 55)
+* Duração do processamento:  1.2350s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  143
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 60)
+* Duração do processamento:  1.2181s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  144
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 65)
+* Duração do processamento:  1.2477s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  145
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 70)
+* Duração do processamento:  1.3363s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  146
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 75)
+* Duração do processamento:  1.4221s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  147
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 80)
+* Duração do processamento:  1.4448s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  148
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 85)
+* Duração do processamento:  1.5144s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  149
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (65, 90)
+* Duração do processamento:  1.8814s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  150
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 20)
+* Duração do processamento:  1.0697s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494128
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  151
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 25)
+* Duração do processamento:  1.2042s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  152
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 30)
+* Duração do processamento:  1.0481s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.15427784316797402
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  153
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 35)
+* Duração do processamento:  1.1393s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  154
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 40)
+* Duração do processamento:  1.1396s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  155
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 45)
+* Duração do processamento:  1.1516s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  156
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 50)
+* Duração do processamento:  1.3259s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.1316700665600026
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  157
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 55)
+* Duração do processamento:  1.2871s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  158
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 60)
+* Duração do processamento:  1.2823s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  159
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 65)
+* Duração do processamento:  1.3820s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.10427060929748637
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  160
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 70)
+* Duração do processamento:  1.3928s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  161
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 75)
+* Duração do processamento:  1.3265s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  162
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 80)
+* Duração do processamento:  1.9593s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  163
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 85)
+* Duração do processamento:  1.9305s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  164
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (70, 90)
+* Duração do processamento:  1.9073s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  165
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 20)
+* Duração do processamento:  1.0664s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.15427784316797402
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  166
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 25)
+* Duração do processamento:  1.1928s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  167
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 30)
+* Duração do processamento:  1.1298s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  168
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 35)
+* Duração do processamento:  1.1435s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  169
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 40)
+* Duração do processamento:  1.1987s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.14031317457927542
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  170
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 45)
+* Duração do processamento:  1.2702s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  171
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 50)
+* Duração do processamento:  1.2946s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  172
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 55)
+* Duração do processamento:  1.3097s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  173
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 60)
+* Duração do processamento:  1.3165s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  174
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 65)
+* Duração do processamento:  1.4682s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  175
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 70)
+* Duração do processamento:  1.4573s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  176
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 75)
+* Duração do processamento:  2.1200s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969696	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  177
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 80)
+* Duração do processamento:  2.1236s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  178
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 85)
+* Duração do processamento:  2.1264s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  179
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (75, 90)
+* Duração do processamento:  2.1045s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  180
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 20)
+* Duração do processamento:  1.1453s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  181
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 25)
+* Duração do processamento:  1.1776s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  182
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 30)
+* Duração do processamento:  1.2267s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.11499191491521375
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  183
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 35)
+* Duração do processamento:  1.2308s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  184
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 40)
+* Duração do processamento:  1.3661s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  185
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 45)
+* Duração do processamento:  1.2690s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  186
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 50)
+* Duração do processamento:  1.3368s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  187
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 55)
+* Duração do processamento:  1.2606s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  188
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 60)
+* Duração do processamento:  1.4468s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  189
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 65)
+* Duração do processamento:  1.3994s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  190
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 70)
+* Duração do processamento:  1.8331s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.06413942572277793
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  191
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 75)
+* Duração do processamento:  1.8201s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  192
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 80)
+* Duração do processamento:  1.8104s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  193
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 85)
+* Duração do processamento:  1.9126s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  194
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (80, 90)
+* Duração do processamento:  1.9456s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  195
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 20)
+* Duração do processamento:  1.1784s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.15427784316797402
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  196
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 25)
+* Duração do processamento:  1.1074s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  197
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 30)
+* Duração do processamento:  1.2122s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.13054944986992736
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  198
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 35)
+* Duração do processamento:  1.1696s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  199
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 40)
+* Duração do processamento:  1.2559s
+(Acurácia media / Desvio padão médio) ->	0.9515151515151515	(+/-) 0.12827885144555587
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  200
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 45)
+* Duração do processamento:  1.3181s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  201
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 50)
+* Duração do processamento:  1.3452s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  202
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 55)
+* Duração do processamento:  1.3972s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  203
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 60)
+* Duração do processamento:  1.3803s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  204
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 65)
+* Duração do processamento:  2.0407s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  205
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 70)
+* Duração do processamento:  1.8560s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.10285189544531598
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  206
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 75)
+* Duração do processamento:  1.8876s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  207
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 80)
+* Duração do processamento:  1.9795s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  208
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 85)
+* Duração do processamento:  1.9131s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  209
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (85, 90)
+* Duração do processamento:  2.0792s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  210
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 20)
+* Duração do processamento:  1.2803s
+(Acurácia media / Desvio padão médio) ->	0.9393939393939394	(+/-) 0.1327812260618584
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  211
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 25)
+* Duração do processamento:  1.2873s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  212
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 30)
+* Duração do processamento:  1.2704s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.10427060929748636
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  213
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 35)
+* Duração do processamento:  1.3053s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  214
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 40)
+* Duração do processamento:  1.3441s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201643
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  215
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 45)
+* Duração do processamento:  1.3911s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  216
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 50)
+* Duração do processamento:  1.4055s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.05938156952201642
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  217
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 55)
+* Duração do processamento:  1.3977s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  218
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 60)
+* Duração do processamento:  1.8886s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  219
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 65)
+* Duração do processamento:  1.7769s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  220
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 70)
+* Duração do processamento:  2.0126s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  221
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 75)
+* Duração do processamento:  2.0745s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  222
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 80)
+* Duração do processamento:  2.2105s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  223
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 85)
+* Duração do processamento:  2.1139s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation logistic
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  224
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (90, 90)
+* Duração do processamento:  2.1256s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+MELHOR RESULTADO
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Alpha: 0.01   Solver: lbfgs    Hidden_sizes: (45, 90)) ->	0.993939393939394	(+/-) 0.03833063830507126
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+ANALISE DE TODAS ITERAÇOES
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Acurácia Média) ->	0.9793939393939393	(+/-) 0.0
+(Tempo médio por iteração: ) ->	0.0198s
+(Total de iterações: ) ->	225

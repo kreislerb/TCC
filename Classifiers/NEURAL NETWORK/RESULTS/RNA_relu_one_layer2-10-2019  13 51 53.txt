@@ -1,0 +1,672 @@
+--------------------------------------------------------------------------------------
+
+++Title: RNA_relu_one_layer
+++Description: Treinamento e classificação utilizando diversas configurações de uma rede neural, no dataset Yale Datafaceo qual foi equalizado e descrito pelo método PCA
+++Autor: Kreisler Brenner Mendes
+++Date: 2-10-2019  13 51 53
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  0
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 200
+* Duração do processamento:  0.8507s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.15427784316797402
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  1
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 205
+* Duração do processamento:  0.6450s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  2
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 210
+* Duração do processamento:  0.6783s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  3
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 215
+* Duração do processamento:  0.6413s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  4
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 220
+* Duração do processamento:  0.6883s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  5
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 225
+* Duração do processamento:  0.6482s
+(Acurácia media / Desvio padão médio) ->	0.9575757575757575	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  6
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 230
+* Duração do processamento:  0.6598s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363637	(+/-) 0.11876313904403286
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  7
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 235
+* Duração do processamento:  0.6649s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  8
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 240
+* Duração do processamento:  0.6562s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  9
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 245
+* Duração do processamento:  0.7026s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  10
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 250
+* Duração do processamento:  0.6605s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  11
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 255
+* Duração do processamento:  0.7092s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  12
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 260
+* Duração do processamento:  0.6703s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  13
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 265
+* Duração do processamento:  0.6683s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109665
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  14
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 270
+* Duração do processamento:  0.6501s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  15
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 275
+* Duração do processamento:  0.6944s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  16
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 280
+* Duração do processamento:  0.5994s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  17
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 285
+* Duração do processamento:  0.5733s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  18
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 290
+* Duração do processamento:  0.6644s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  19
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 295
+* Duração do processamento:  0.6785s
+(Acurácia media / Desvio padão médio) ->	0.9636363636363636	(+/-) 0.16442012080303683
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  20
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 300
+* Duração do processamento:  0.6758s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  21
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 305
+* Duração do processamento:  0.6515s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  22
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 310
+* Duração do processamento:  0.6225s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  23
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 315
+* Duração do processamento:  0.7199s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  24
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 320
+* Duração do processamento:  0.6918s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  25
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 325
+* Duração do processamento:  0.6622s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  26
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 330
+* Duração do processamento:  0.6982s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  27
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 335
+* Duração do processamento:  0.7177s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  28
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 340
+* Duração do processamento:  0.7465s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  29
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 345
+* Duração do processamento:  0.7506s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  30
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 350
+* Duração do processamento:  0.7679s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  31
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 355
+* Duração do processamento:  0.8344s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  32
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 360
+* Duração do processamento:  0.8137s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  33
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 365
+* Duração do processamento:  0.8540s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  34
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 370
+* Duração do processamento:  0.9321s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  35
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 375
+* Duração do processamento:  0.8782s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  36
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 380
+* Duração do processamento:  0.9973s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  37
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 385
+* Duração do processamento:  1.0659s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.08740730364761184
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  38
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 390
+* Duração do processamento:  1.6502s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  39
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 395
+* Duração do processamento:  1.4562s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  40
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 400
+* Duração do processamento:  1.3222s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  41
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 405
+* Duração do processamento:  1.3662s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  42
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 410
+* Duração do processamento:  1.4652s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  43
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 415
+* Duração do processamento:  1.1864s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  44
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 420
+* Duração do processamento:  0.9634s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  45
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 425
+* Duração do processamento:  0.9207s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  46
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 430
+* Duração do processamento:  1.6401s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  47
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 435
+* Duração do processamento:  1.1993s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  48
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 440
+* Duração do processamento:  1.0061s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  49
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 445
+* Duração do processamento:  1.1084s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  50
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 450
+* Duração do processamento:  0.9063s
+(Acurácia media / Desvio padão médio) ->	0.9696969696969698	(+/-) 0.11876313904403284
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  51
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 455
+* Duração do processamento:  0.9125s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  52
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 460
+* Duração do processamento:  0.8485s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  53
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 465
+* Duração do processamento:  0.8566s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  54
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 470
+* Duração do processamento:  0.8783s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  55
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 475
+* Duração do processamento:  0.9454s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  56
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 480
+* Duração do processamento:  0.9071s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  57
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 485
+* Duração do processamento:  0.9459s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.11751951169494129
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  58
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 490
+* Duração do processamento:  0.8896s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  59
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 495
+* Duração do processamento:  0.8575s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  60
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 500
+* Duração do processamento:  0.9068s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  61
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 505
+* Duração do processamento:  1.0051s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  62
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 510
+* Duração do processamento:  0.8995s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  63
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 515
+* Duração do processamento:  0.9918s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  64
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 520
+* Duração do processamento:  0.9165s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  65
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 525
+* Duração do processamento:  0.9420s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  66
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 530
+* Duração do processamento:  1.0206s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  67
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 535
+* Duração do processamento:  1.0074s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  68
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 540
+* Duração do processamento:  1.0233s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  69
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 545
+* Duração do processamento:  1.0405s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  70
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 550
+* Duração do processamento:  1.0332s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  71
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 555
+* Duração do processamento:  1.0409s
+(Acurácia media / Desvio padão médio) ->	0.993939393939394	(+/-) 0.03833063830507126
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  72
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 560
+* Duração do processamento:  1.0047s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  73
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 565
+* Duração do processamento:  1.0775s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151838
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  74
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 570
+* Duração do processamento:  0.9823s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.05142594772265799
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  75
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 575
+* Duração do processamento:  0.9905s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  76
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 580
+* Duração do processamento:  1.1078s
+(Acurácia media / Desvio padão médio) ->	0.9757575757575758	(+/-) 0.08570991287109664
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  77
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 585
+* Duração do processamento:  1.0064s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  78
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 590
+* Duração do processamento:  1.1438s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.08221006040151839
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  79
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 595
+* Duração do processamento:  1.2924s
+(Acurácia media / Desvio padão médio) ->	0.9878787878787879	(+/-) 0.0766612766101425
+--------------------------------------------------------------------------------------
+Validação Cruzada - RNA-> Activation relu
+--------------------------------------------------------------------------------------
+
+* Iteração N°:  80
+* Parâmetros de teste:  Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 600
+* Duração do processamento:  1.0420s
+(Acurácia media / Desvio padão médio) ->	0.9818181818181819	(+/-) 0.11499191491521378
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+MELHOR RESULTADO
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Alpha: 0.01   Solver: lbfgs    Hidden_sizes: 315) ->	0.993939393939394	(+/-) 0.03833063830507126
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+ANALISE DE TODAS ITERAÇOES
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+(Acurácia Média) ->	0.9818181818181818	(+/-) 0.0
+(Tempo médio por iteração: ) ->	0.0438s
+(Total de iterações: ) ->	81
