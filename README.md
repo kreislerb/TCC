@@ -2,8 +2,8 @@
 Comparativo de algoritmos clássicos em um problema de reconhecimento facial
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL&index=2">
-    <img src="https://raw.githubusercontent.com/filipedeschamps/meu-primeiro-jogo-multiplayer/master/game-preview.gif" width="550">
+  <a href="https://www.youtube.com/watch?v=MPh6Zl-RK9c">
+  <iframe width="727" height="409" src="https://www.youtube.com/embed/MPh6Zl-RK9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </a>
 </p>
 
